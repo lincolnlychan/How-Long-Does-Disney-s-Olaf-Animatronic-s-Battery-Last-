@@ -1,4 +1,4 @@
-## How Long Does Disney's Olaf Animatronic's Battery Last?
+## [How Long Does Disney's Olaf Animatronic's Battery Last?](https://www.linkedin.com/pulse/how-long-does-olaf-animatronics-battery-last-lincoln-chan-sh9uc/) 
 ### Based on my research using publicly available information, I believe I found the answer. 
 #### by [Lincoln Chan](https://www.linkedin.com/in/lincoln-chan-0a5a60346/) 
 ## Olaf Animatronic's Battery Life 
