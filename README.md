@@ -1,7 +1,7 @@
 # How Long Does Disney's Olaf Animatronic's Battery Last?
 ### Based on my research using publicly available information, I believe I found the answer. 
-## Olaf Animatronic's Battery Life 
 #### by [Lincoln Chan](https://www.linkedin.com/in/lincoln-chan-0a5a60346/) 
+## Olaf Animatronic's Battery Life 
 During one of the presentations at an Nvidia convention, Moritz Bächer, Director of the Research Lab Zurich, Disney Research, gave the following statement:
 > So we use actually the same modular hardware components like we used for BDX largely. We added a couple of additional actuators to the actuator family, characterized them, so we have good simulation representations, but we used largely the same hardware [for the Olaf Animatronic]. 
 So we know that Olaf Animatronic is using largely the same hardware for the BDX Droids, how long does BDX Droids Battery Last? According to Moritz Bächer,
