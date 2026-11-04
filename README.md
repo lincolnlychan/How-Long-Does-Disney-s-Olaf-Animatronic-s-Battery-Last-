@@ -6,9 +6,11 @@ During one of the presentations at an Nvidia convention, Moritz Bächer, Directo
 > So we use actually the same modular hardware components like we used for BDX largely. We added a couple of additional actuators to the actuator family, characterized them, so we have good simulation representations, but we used largely the same hardware [for the Olaf Animatronic]. 
 So we know that Olaf Animatronic is using largely the same hardware for the BDX Droids, how long does BDX Droids Battery Last? According to Moritz Bächer,
 > We have a battery on board that lasts for about two hours before you have to recharge.
+> 
 So How long does Olaf Animatronic's Battery Last? According to Moritz Bächer,
+
 > We also have a battery on board that lasts actually a bit less long than for the BDX Droids, but long enough for doing several shows in a row.
-According the statements above, Olaf Animatronic's battery life is less than 2 hours and is able to do several show in a row. 
+According the statements above, Olaf Animatronic's battery life is less than 2 hours and is able to do several show in a row.
 ## How long can a public appearance of an Olaf Animatronic be? 
 In the "A Celebration of Arendelle" Show and "The Arendelle Carollers" Show at Disneyland Paris, the Olaf Animatronic will appear for roughly 15 minutes. In a normal day, Olaf Animatronic will perform in the "A Celebration of Arendelle" Show for a total of 5 times. 
 
