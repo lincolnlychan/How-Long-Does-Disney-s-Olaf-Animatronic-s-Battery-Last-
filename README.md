@@ -14,7 +14,7 @@ So How long does Olaf Animatronic's Battery Last? According to Moritz Bächer,
 According the statements above, Olaf Animatronic's battery life is less than 2 hours and is able to do several show in a row.
 
 ## How long can a public appearance of an Olaf Animatronic be? 
-In the "A Celebration of Arendelle" Show and "The Arendelle Carollers" Show at Disneyland Paris, the Olaf Animatronic will appear for roughly 15 minutes. In a normal day, Olaf Animatronic will perform in the "A Celebration of Arendelle" Show for a total of 5 times. 
+In the "A Celebration of Arendelle" Show and "The Arendelle Carollers" Show at Disneyland Paris, the Olaf Animatronic will appear for roughly 15 minutes. In a normal day, Olaf Animatronic is able to perform in the "A Celebration of Arendelle" Show for a total of 5 times. 
 
 Olaf Animatronic will appear for around 10–15 minutes. It will appear 2 times in one day separated with a 1.5–2 hour interval. Having met the Olaf Animatronic in Hong Kong Disneyland for at least 4 times, so I say this with some certainty. 
 ## Conclusion
