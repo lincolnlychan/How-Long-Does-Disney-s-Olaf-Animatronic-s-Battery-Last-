@@ -21,4 +21,5 @@ Olaf Animatronic will appear for around 10–15 minutes. It will appear 2 times 
 **Olaf Animatronic's battery life is less than 2 hours. It is able to perform for roughly 10–15 minutes for multiple times a day.** 
 
 ## If you find this article helpful, I would really appreciate it if you [star this article's GitHub Repository](https://github.com/lincolnlychan/How-Long-Does-Disney-s-Olaf-Animatronic-s-Battery-Last-) or [give this post a like on Linkedin](https://www.linkedin.com/pulse/how-long-does-olaf-animatronics-battery-last-lincoln-chan-sh9uc/), thank you very much!
+
 ## [This article was originally posted on my Linkedin.](https://www.linkedin.com/pulse/how-long-does-olaf-animatronics-battery-last-lincoln-chan-sh9uc/) 
